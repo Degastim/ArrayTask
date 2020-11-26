@@ -1,0 +1,2 @@
+26-11-2020 13:34:31  INFO epam.service.SorterOrderSumsElement sortAscendingOrder -Ordered in ascending order of the sums of the elements of the rows of the matrix
+26-11-2020 13:34:31  INFO epam.service.SorterOrderSumsElement sortDescendingOrder -Ordered in descending order of the sums of the elements of the rows of the matrix
